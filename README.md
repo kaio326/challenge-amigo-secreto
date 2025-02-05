@@ -18,12 +18,12 @@ Este é um projeto simples de Amigo Secreto que permite adicionar nomes de amigo
 
 1. Clone o repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/seu-usuario/amigo-secreto.git
+    git clone https://github.com/kaio326/challenge-amigo-secreto.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd amigo-secreto
+    cd challenge-amigo-secreto
     ```
 
 3. Abra o arquivo [index.html](http://_vscodecontentref_/1) no seu navegador:
